@@ -1,2 +1,5 @@
 osrsaccounts.json
 archive
+.ipynb_checkpoints
+.vscode
+.DS_Store
